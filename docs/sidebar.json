@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Background Specs",
+        "pages": {
+            "/": "Introduction",
+            "/overview": "Overview"
+        }
+    },
+    {
+        "title": "Resources",
+        "pages": {
+            "/resources/background-thumbnail": "Background Thumbnail",
+            "/resources/background-configuration": "Background Configuration",
+            "/resources/background-image": "Background Image",
+            "/resources/background-data": "Background Data"
+        }
+    }
+]
